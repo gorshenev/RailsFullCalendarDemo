@@ -1,6 +1,6 @@
 == DEMO  
 
-This quick and dirty app use the [FullCalendar](http://arshaw.com/fullcalendar) jquery script
+This quick and dirty app use the [.FullCalendar](http://arshaw.com/fullcalendar) jquery script
 
 It required :
 * Rails 4
